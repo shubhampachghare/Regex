@@ -10,7 +10,7 @@ namespace RegexNew123
             Console.WriteLine(patterns.ValidateFName("Shubham"));
             Console.WriteLine(patterns.ValidateFName("Pachghare"));
             Console.WriteLine(patterns.ValidateEmail("shubham.pachghare@gmail.co.in"));
-
+            Console.WriteLine(patterns.ValidateMobile("91 9860666723"));
         }
     }
 
